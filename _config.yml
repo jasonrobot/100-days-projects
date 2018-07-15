@@ -18,8 +18,8 @@ email: jasonrobot64@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a place to list our ideas/repos/github-links for projects that we have for the 100 days of code.
   I plan on making some templates so that this is easy to add new content to, but give me a sec ;-)
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "100-days-projects" # the subpath of your site, e.g. /blog
+url: "https://jasonrobot.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: beizhia
 github_username:  jasonrobot
 
