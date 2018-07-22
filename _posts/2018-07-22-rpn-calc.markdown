@@ -1,17 +1,28 @@
 ---
 layout: post
-title:  "100 Days Of Code"
-date:   2018-07-21 23:15:00 -0700
+title:  "RPN Calculator"
+date:   2018-07-22 15:45:00 -0700
 categories: post
 ---
 # RPN Calculator
 
 ```
-Reverse Polish notation (RPN), also known as Polish postfix notation or simply postfix notation, is a mathematical notation in which operators follow their operands, in contrast to Polish notation (PN), in which operators precede their operands. 
+Reverse Polish notation (RPN), also known as Polish postfix notation
+or simply postfix notation, is a mathematical notation in which
+operators follow their operands, in contrast to Polish notation (PN),
+in which operators precede their operands.
 
-During the 1970s and 1980s, Hewlett-Packard used RPN in all of their desktop and hand-held calculators.[7][8] In computer science, reverse Polish notation is used in stack-oriented programming languages such as Forth and PostScript. 
+During the 1970s and 1980s, Hewlett-Packard used RPN in all of their
+desktop and hand-held calculators.[7][8] In computer science, reverse
+Polish notation is used in stack-oriented programming languages such
+as Forth and PostScript.
 ```
 
-So I really like RPN. It's just kinda an easy way to think about math on the fly. There's a sweet HP-48 emulator for Android that I used _so much_ in college that I still input things wrong into calculators.
+So I really like RPN. It's just kinda an easy way to think about math
+on the fly. There's a sweet HP-48 emulator for Android that I used _so
+much_ in college that I still input things wrong into calculators.
 
-Not only would this be a pretty sweet command line tool to have handy, but it would also be a pretty simple project to implement in just about any language. It's also got some good CS-concepts, because its all stack operations.
+Not only would this be a pretty sweet command line tool to have handy,
+but it would also be a pretty simple project to implement in just
+about any language. It's also got some good CS-concepts, because its
+all stack operations.
