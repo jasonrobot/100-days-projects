@@ -6,17 +6,15 @@ categories: post
 ---
 # RPN Calculator
 
-```
-Reverse Polish notation (RPN), also known as Polish postfix notation
-or simply postfix notation, is a mathematical notation in which
-operators follow their operands, in contrast to Polish notation (PN),
-in which operators precede their operands.
+> Reverse Polish notation (RPN), also known as Polish postfix notation
+> or simply postfix notation, is a mathematical notation in which
+> operators follow their operands, in contrast to Polish notation (PN),
+> in which operators precede their operands.
 
-During the 1970s and 1980s, Hewlett-Packard used RPN in all of their
-desktop and hand-held calculators.[7][8] In computer science, reverse
-Polish notation is used in stack-oriented programming languages such
-as Forth and PostScript.
-```
+> During the 1970s and 1980s, Hewlett-Packard used RPN in all of their
+> desktop and hand-held calculators. In computer science, reverse
+> Polish notation is used in stack-oriented programming languages such
+> as Forth and PostScript.
 
 So I really like RPN. It's just kinda an easy way to think about math
 on the fly. There's a sweet HP-48 emulator for Android that I used _so
